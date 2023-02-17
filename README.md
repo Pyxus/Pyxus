@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-Hey! My name is Ezekiel, and I am a recent computer science graduate with an interest in game development and software design. I love using my programming skills to bring new ideas to life, and I'm always looking for ways to learn and grow in my field. When I'm not coding, I enjoy exploring my creative side through digital art and I occasionally share my latest creations on my [Instagram](instagram.com/pyxus_/). Thanks for taking the time to get to know me!
+Hey! My name is Ezekiel, and I am a recent computer science graduate with an interest in game development and software design. I love using my programming skills to bring new ideas to life, and I'm always looking for ways to learn and grow in my field. When I'm not coding, I enjoy exploring my creative side through digital art and I occasionally share my latest creations on my [Instagram](https://www.instagram.com/pyxus_/). Thanks for taking the time to get to know me!
 
 ---
 
